@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  position: relative;
+
+  .navbar-nav {
+    .nav-item {
+      border: double darkblue;
+      background-color: darkorchid;
+    }
+  }
+
+  .mbr-arrow{
+    z-index: 1;
+  }
+
+.mbr-text{
+  a{
+    color: blue;
+    &:hover{
+      color: teal;
+    }
+  }
+}
+
+
+
+
+}

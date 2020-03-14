@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  position: relative;
+}
+
+body .navbar-nav .nav-item {
+  border: double darkblue;
+  background-color: darkorchid;
+}
+
+body .mbr-arrow {
+  z-index: 1;
+}
+
+body .mbr-text a {
+  color: blue;
+}
+
+body .mbr-text a:hover {
+  color: teal;
+}
+/*# sourceMappingURL=style.css.map */
